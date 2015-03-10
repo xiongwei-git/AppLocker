@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">应用锁</string>
+    <string name="menu_text_str_enable">应用锁已启用。</string>
+    <string name="menu_text_str_disable">应用锁已禁用。</string>
+    <string name="menu_app_lock">应用锁</string>
+    <string name="menu_photo_vault">照片保险箱</string>
+    <string name="menu_themes">主题</string>
+    <string name="chameleon">变色龙</string>
+    <string name="explore">发现更多</string>
+    <string name="action_settings">设置</string>
+    <string name="rate_us">为我们评分</string>
+    <string name="about_us">关于</string>
 
-    <string name="app_name">AppLocker</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="press_again">再次点击“返回”键以退出。</string>
+    <string name="use_pattern_unlock_type">使用图案解锁？</string>
+    <string name="use_pin_unlock_type">使用 PIN 码解锁？</string>
+    <string name="pattern_set_first">首先绘制解锁图案。</string>
+    <string name="pick_pattern">绘制图案以解锁屏幕</string>
+    <string name="lockpattern_recording_intro_header">绘制解锁图案。</string>
+    <string name="pattern_error_tip">应至少连接 %1$d 个点。请重试：</string>
+    <string name="pattern_release_finger">完成时松开手指。</string>
+    <string name="pattern_confirm">再次绘制图案以确认。</string>
+    <string name="pattern_error">抱歉，请重试：</string>
+    <string name="pattern_continue">图案已记录。</string>
+    <string name="continue_string">继续</string>
 
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
 </resources>
