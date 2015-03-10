@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/appLocker" />
             <option value="$PROJECT_DIR$/submodules" />
+            <option value="$PROJECT_DIR$/submodules/AndroidLockpattern" />
             <option value="$PROJECT_DIR$/submodules/TedFramework" />
             <option value="$PROJECT_DIR$/submodules/TedWidget" />
           </set>
