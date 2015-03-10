@@ -1,0 +1,6 @@
+[submodule "submodules/TedFramework"]
+	path = submodules/TedFramework
+	url = https://github.com/xiongwei-git/TedFramework.git
+[submodule "submodules/TedWidget"]
+	path = submodules/TedWidget
+	url = https://github.com/xiongwei-git/TedWidget.git
