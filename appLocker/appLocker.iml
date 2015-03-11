@@ -84,5 +84,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="support-annotations-21.0.3" level="project" />
     <orderEntry type="module" module-name="TedWidget" exported="" />
+    <orderEntry type="module" module-name="AndroidLockpattern" exported="" />
   </component>
 </module>
