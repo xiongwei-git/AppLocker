@@ -4,6 +4,6 @@
 [submodule "submodules/TedWidget"]
 	path = submodules/TedWidget
 	url = https://github.com/xiongwei-git/TedWidget.git
-[submodule ".\\submodules/AndroidLockpattern"]
-	path = .\\submodules/AndroidLockpattern
+[submodule "submodules/AndroidLockpattern"]
+	path = submodules/AndroidLockpattern
 	url = https://github.com/xiongwei-git/AndroidLockpattern.git
