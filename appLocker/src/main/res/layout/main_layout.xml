@@ -11,8 +11,12 @@
             android:layout_height="match_parent"/>
 
 
-    <RelativeLayout android:layout_gravity="start" android:id="@id/draw_menu" android:layout_width="wrap_content" android:layout_height="fill_parent">
+    <RelativeLayout android:layout_gravity="start"
+                    android:id="@id/draw_menu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent">
         <include layout="@layout/activity_menu_layout" />
+
     </RelativeLayout>
 
 
