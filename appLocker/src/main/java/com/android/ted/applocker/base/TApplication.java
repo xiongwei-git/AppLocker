@@ -2,6 +2,7 @@ package com.android.ted.applocker.base;
 
 import android.app.Application;
 import com.android.tedframework.Util.DeviceUtil;
+import com.haibison.android.lockpattern.util.Settings;
 
 /**
  * Created by Ted on 2014/12/2.

@@ -14,7 +14,10 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-import com.android.TedFramework.util.ToastUtil;
+import com.android.ted.applocker.R;
+import com.android.ted.applocker.base.TApplication;
+import com.android.ted.applocker.view.PwdRetreiveView;
+import com.android.tedframework.Util.ToastUtil;
 import com.haibison.android.lockpattern.util.IEncrypter;
 import com.haibison.android.lockpattern.util.InvalidEncrypterException;
 import com.haibison.android.lockpattern.util.LoadingDialog;
@@ -25,14 +28,10 @@ import com.haibison.android.lockpattern.widget.LockPatternUtils;
 import com.haibison.android.lockpattern.widget.LockPatternView;
 import com.haibison.android.lockpattern.widget.LockPatternView.Cell;
 import com.haibison.android.lockpattern.widget.LockPatternView.DisplayMode;
-import com.ted.applock.R;
-import com.ted.applock.base.TApplication;
-import com.ted.applock.view.PwdRetreiveView;
 
 import java.util.Arrays;
 import java.util.List;
 
-import static com.haibison.android.lockpattern.util.Settings.Display.*;
 
 public class CreatePwdActivity extends Activity {
     /**通知做动画的消息*/
@@ -109,7 +108,7 @@ public class CreatePwdActivity extends Activity {
             /**只有在创建密码时做"再点一次退出"的提示，其他的都是直接退出*/
             if(mSEState.equals(SecurityState.CREATE)){
                 if(System.currentTimeMillis() - mLastClickTime > 2000){
-                    ToastUtil.show(this,getResources().getString(R.string.press_again));
+                    ToastUtil.show(this, getResources().getString(R.string.press_again));
                     mLastClickTime = System.currentTimeMillis();
                     return true;
                 }else {

@@ -5,7 +5,7 @@ import android.content.res.TypedArray;
 import android.util.AttributeSet;
 import android.view.View;
 import android.widget.*;
-import com.ted.applock.R;
+import com.android.ted.applocker.R;
 
 /**
  * Created by Ted on 2014/11/20.

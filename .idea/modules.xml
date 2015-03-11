@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/submodules/AndroidLockpattern/AndroidLockpattern.iml" filepath="$PROJECT_DIR$/submodules/AndroidLockpattern/AndroidLockpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AppLocker.iml" filepath="$PROJECT_DIR$/AppLocker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/submodules/TedFramework/TedFramework.iml" filepath="$PROJECT_DIR$/submodules/TedFramework/TedFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/submodules/TedWidget/TedWidget.iml" filepath="$PROJECT_DIR$/submodules/TedWidget/TedWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appLocker/appLocker.iml" filepath="$PROJECT_DIR$/appLocker/appLocker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/submodules/submodules.iml" filepath="$PROJECT_DIR$/submodules/submodules.iml" />
+    </modules>
+  </component>
+</project>

@@ -40,7 +40,7 @@
             android:layout_marginTop="@dimen/pattern_unlock_view_margintop" />
     </LinearLayout>
 
-    <com.ted.applock.view.PwdRetreiveView
+    <com.android.ted.applocker.view.PwdRetreiveView
         android:id="@id/splash_pwd_retrv_ic"
         android:layout_width="50.0dip"
         android:layout_height="50.0dip"

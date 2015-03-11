@@ -7,8 +7,8 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.PopupWindow;
 import android.widget.RelativeLayout;
-import com.android.TedFramework.util.DeviceUtil;
-import com.ted.applock.R;
+import com.android.ted.applocker.R;
+import com.android.tedframework.Util.DeviceUtil;
 
 /**
  * Created by Ted on 2014/11/30.

@@ -56,7 +56,7 @@
 
     </RelativeLayout>
 
-    <com.ted.applock.view.PwdRetreiveView
+    <com.android.ted.applocker.view.PwdRetreiveView
             android:id="@id/menu_view"
             android:layout_width="wrap_content"
             android:layout_height="@dimen/pwd_retreive_view_h"
